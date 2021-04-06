@@ -1,7 +1,9 @@
-$bodyColor: #65c307;
-$color: #ffffff;
-
-body{
-    background-color: $bodyColor;
-    color: $color;
+body {
+    margin: 0;
+    font-family: 'Muli', sans-serif;
+    background: #8f57fd;
+}
+  
+* {
+    box-sizing: border-box;
 }
